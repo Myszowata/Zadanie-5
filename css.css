@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.hero-body {
+    background-color: firebrick;
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+.logo-container img {
+    margin-right: 10px;
+}
+.footer {
+    background-color: #f0f0f0;
+    padding: 20px 0;
+    text-align: center;
+}
+#tekst {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
